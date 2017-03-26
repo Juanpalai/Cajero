@@ -1,0 +1,54 @@
+h1{
+    text-align:center;
+    color: black;
+    background-color:gray;
+}
+h2{
+    text-align:center;
+    font-style: italic;
+}
+body{
+    background-color: #E5E7E9  ;
+}
+
+#cuadro
+{
+    width: 500px;
+    height: 500px;
+    background-color: orangered;
+    background-size: 200px;
+}
+#rojo{
+    width: 180px;
+    height: 80px;
+    border: 4px black solid;
+    border-radius: 10px;
+    margin: auto;  
+    background-color:red;
+}
+
+#amarillo{
+    width: 180px;
+    height: 80px;
+    border: 4px black solid;
+    border-radius: 10px;
+    margin: auto;  
+    background-color:yellow;
+}
+
+#verde{
+    width: 180px;
+    height: 80px;
+    border: 4px black solid;
+    border-radius: 10px;
+    margin: auto;  
+    background-color:green;
+}
+
+#numeros
+{
+    
+      margin: auto; 
+      text-align:center;
+      
+}
